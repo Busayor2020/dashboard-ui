@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 import React from 'react';
 import { FaSearch, FaBell, FaUser } from 'react-icons/fa';
-import Avatar from '@mui/material/Avatar';
+
 
 const Navbar: React.FC = () => { 
  return (
